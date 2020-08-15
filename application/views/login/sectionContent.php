@@ -20,7 +20,7 @@
                     <input type="password" class="form-control" id="password" name="password" placeholder="Password..." required>
                 </div>
                 <button type="submit" class="btn btn-info float-right w-25">Login</button>
-                <a href="">skip</a>
+                <a href="<?=base_url();?>DashboardController">skip</a>
             </form>
         </div>
     </div>
